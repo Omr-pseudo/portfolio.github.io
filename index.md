@@ -5,17 +5,9 @@
  graphic designer is a professional within the graphic design and graphic arts industry who assembles together images, typography, or motion graphics to create a piece of design. A graphic designer creates the graphics primarily for published, printed, or electronic media, such as brochures and advertising. 
  
  
-**Bold** and _Italic_ and `Code` text
+**Words cannot define a person's work, they are only there to persuade the audience. Sometimes people get swindled just by work but one cannot form an opinion on prejudice. You have to TRY !**  _Give me you work and i'll make it worth your while_
 
-[Link](url) and ![Image](src)
+[Link](https://i.imgur.com/ysuORYe.png) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Omr-pseudo/portfolio.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
