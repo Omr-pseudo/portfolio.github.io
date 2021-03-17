@@ -5,7 +5,7 @@
  graphic designer is a professional within the graphic design and graphic arts industry who assembles together images, typography, or motion graphics to create a piece of design. A graphic designer creates the graphics primarily for published, printed, or electronic media, such as brochures and advertising. 
  
  
-**Words cannot define a person's work, they are only there to persuade the audience. Sometimes people get swindled just by work but one cannot form an opinion on prejudice. You have to TRY !** 
+**Words cannot define a person's work, they are only there to persuade the audience. Sometimes people get swindled just by words but one cannot form an opinion on prejudice. You have to TRY !** 
 
 _Give me you work and i'll make it worth your while_
 
