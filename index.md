@@ -1,14 +1,10 @@
 
-# Header 1
-## Header 2
-### Header 3
+# Portfolio of Designer xii
+## Freelance Graphics Designer on Fiverr 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
+ graphic designer is a professional within the graphic design and graphic arts industry who assembles together images, typography, or motion graphics to create a piece of design. A graphic designer creates the graphics primarily for published, printed, or electronic media, such as brochures and advertising. 
+ 
+ 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
