@@ -9,6 +9,8 @@
 
 _Give me you work and i'll make it worth your while_
 
-[https://i.imgur.com/ysuORYe.png](https://i.imgur.com/ysuORYe.png) and ![https://i.imgur.com/ysuORYe.png](https://i.imgur.com/ysuORYe.png)
+[https://i.imgur.com/ysuORYe.png](https://i.imgur.com/ysuORYe.png)
 
+Regards,
+Your Designer
 
